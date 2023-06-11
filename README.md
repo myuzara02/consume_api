@@ -1,10 +1,10 @@
 # Consume API Kelompok 7
 
 ## Anggota
-### - Miftah Yuzar A
-### - Taufik Rahman
-### - Sofyan Tizani
-### - Rival Riyanto
+- Miftah Yuzar A
+- Taufik Rahman
+- Sofyan Tizani
+- Rival Riyanto
 
 A new Flutter project.
 
