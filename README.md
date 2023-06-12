@@ -4,7 +4,7 @@
 - Miftah Yuzar A
 - Taufik Rahman
 - Sofyan Tizani
-- Rival Riyanto
+- Rival Riyanto 2006077
 
 A new Flutter project.
 
